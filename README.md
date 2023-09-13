@@ -3,7 +3,7 @@
 </p>
 <details>
     <summary><b>Please download resume here 😝</b></summary><br/>
-<!--[Jokowi](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhaffnavyz&theme=monokai)-->
+    [Abhay Kumar 4.5 YOE](https://github.com/tomerabhay/tomerabhay.github.io/blob/main/Abhay%20Kumar%20Resume%20Ver3.823.1.pdf)
 
 </p>
 </details>
