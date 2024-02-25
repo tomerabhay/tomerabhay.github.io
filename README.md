@@ -15,7 +15,7 @@
     [Mob. 9458772187]
   </a>
     <!--<img src="https://img.shields.io/npm/dt/abhaykumartomer.github.io.svg"      alt="Downloads" />-->
-  <!--[Download PDF resume][Abhay Kumar 4.5 YOE](https://abhaykumartomer.github.io/img/Resume%20Abhay%20Kumar.pdf)-->
+  <!--[Download PDF resume][Abhay Kumar 4.5 YOE](https://abhaykumartomer.github.io/Resume/Resume%20Abhay%20Kumar.pdf)-->
 </div>
 
 <details>
@@ -34,7 +34,7 @@
 <a href="https://linkedin.com/in/abhaykumartomer" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/abhaykumartomer" target="_blank">
+<a href="https://www.facebook.com/abhaykumartomar.akt" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/abhaykumartomer" target="_blank">
