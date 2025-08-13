@@ -9,20 +9,16 @@
 </div>
 <br/>
 <div align="center">
-  <!-- Downloads -->
   <a href="https://telegram.me/abhay_kumar_tomer">
-    <!--<img src="https://img.shields.io/npm/dt/tomerabhay.github.io.svg" alt="Downloads" />-->
     [Mob. 9458772187]
   </a>
-    <!--<img src="https://img.shields.io/npm/dt/abhaykumartomer.github.io.svg"      alt="Downloads" />-->
-  <!--[Download PDF resume][Abhay Kumar 4.5 YOE](https://abhaykumartomer.github.io/Resume/Resume%20Abhay%20Kumar.pdf)-->
 </div>
 
 <details>
     <summary><b>click here for more details 😝</b></summary><br/>
 
 <div align="center">
-<a href="https://github.com/abhaykumartomar" target="_blank">
+<a href="https://github.com/tomarabhay" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/abhaykumartomer" target="_blank">
@@ -31,7 +27,7 @@
 <a href="https://dev.to/abhaykumartomer" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/abhaykumartomer" target="_blank">
+<a href="https://linkedin.com/in/abhaykumartomar" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/abhaykumartomar.akt" target="_blank">
@@ -48,7 +44,7 @@
 <br/>
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/abhaykumartomer" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/abhaytomar" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
                     align="center"
